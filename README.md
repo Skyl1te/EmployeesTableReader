@@ -1,7 +1,3 @@
-Here's a comprehensive project description for your EmployeesTableReader application that you can use for your GitHub repository:
-
----
-
 # EmployeesTableReader
 
 ## Overview
