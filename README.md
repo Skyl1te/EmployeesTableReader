@@ -164,6 +164,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [EPPlus](https://github.com/EPPlusSoftware/EPPlus) library for Excel file operations.
 - All contributors and open-source projects that helped in developing this application.
 
----
 
-Feel free to customize this description to better fit your project's specifics and add any additional information you think might be useful.
