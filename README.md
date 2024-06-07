@@ -47,9 +47,9 @@
 
 1. Build and run the project in Visual Studio.
 
-2. Use the `Main.cs` file to interact with the `EmployeesTable` class and test its functionalities.
+2. Use the `Program.cs` file to interact with the `EmployeesTable` class and test its functionalities.
 
-Example usage in `Main.cs`:
+Example usage in `Program.cs`:
 
 ```csharp
 using System;
